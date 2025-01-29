@@ -1,0 +1,50 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" version="1.1" id="background" inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)" sodipodi:docname="background.svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+	<defs id="defs2">
+		<linearGradient inkscape:collect="always" id="linearGradient4304">
+			<stop style="stop-color: #ffd93e; stop-opacity: 0.4" offset="0" id="stop4300"/>
+			<stop style="stop-color: #ffe680; stop-opacity: 0" offset="1" id="stop4302"/>
+		</linearGradient>
+		<linearGradient inkscape:collect="always" id="linearGradient3912">
+			<stop style="stop-color: #ffd007; stop-opacity: 0.4" offset="0" id="stop3908"/>
+			<stop style="stop-color: #fffeba; stop-opacity: 0" offset="1" id="stop3910"/>
+		</linearGradient>
+		<linearGradient inkscape:collect="always" id="linearGradient2081">
+			<stop style="stop-color: #ffdd55; stop-opacity: 0.4" offset="0" id="stop2077"/>
+			<stop style="stop-color: #ffdd55; stop-opacity: 0" offset="1" id="stop2079"/>
+		</linearGradient>
+		<linearGradient inkscape:collect="always" xlink:href="#linearGradient2081" id="linearGradient1801" x1="206.19089" y1="206.73494" x2="-32.349899" y2="11.952847" gradientUnits="userSpaceOnUse"/>
+		<linearGradient inkscape:collect="always" xlink:href="#linearGradient3912" id="linearGradient3914" x1="1290.3944" y1="605.50482" x2="2053.1775" y2="1403.5397" gradientUnits="userSpaceOnUse"/>
+		<linearGradient inkscape:collect="always" xlink:href="#linearGradient4304" id="linearGradient4306" x1="1341.5435" y1="318.06668" x2="1935.5392" y2="1417.4701" gradientUnits="userSpaceOnUse"/>
+	</defs>
+	<g inkscape:groupmode="layer" id="layer3" inkscape:label="Layer 3">
+		<path style="
+                fill: url(#linearGradient4306);
+                stroke: none;
+                stroke-width: 1.29639px;
+                stroke-linecap: butt;
+                stroke-linejoin: miter;
+                stroke-opacity: 1;
+                fill-opacity: 1;
+            " d="m 137.60652,1030.2696 c 0,0 114.86764,-158.56224 219.04169,-212.9081 104.17399,-54.34589 285.20941,-146.13235 361.39284,-199.87796 76.18327,-53.74562 241.25449,-371.60216 314.93865,-443.00033 73.6841,-71.39817 177.7035,-146.87908 312.0549,-105.418719 134.3516,41.460399 215.282,71.672439 290.8881,37.994869 75.6062,-33.677571 144.5544,-139.413294 144.5544,-139.413294 L 2680.7589,156.01409 2252.7708,1867.0287 -6.5282028,1092.2432 Z" id="path710" />
+	</g>
+	<g inkscape:groupmode="layer" id="layer2" inkscape:label="Layer 2">
+		<path style="
+                fill: url(#linearGradient3914);
+                stroke: none;
+                stroke-width: 1.29639px;
+                stroke-linecap: butt;
+                stroke-linejoin: miter;
+                stroke-opacity: 1;
+                fill-opacity: 1;
+            " d="m 922.87697,1200.0702 c 0,0 102.70213,-98.6038 160.07153,-221.12061 57.3693,-122.5169 92.2674,-406.24582 239.0264,-434.38725 146.759,-28.14139 280.9733,-7.21547 480.6538,66.97481 199.6804,74.19026 428.459,-105.2771 524.9551,-160.1493 96.4961,-54.87217 248.1594,-122.77081 275.1096,-126.28564 26.9503,-3.51481 -350.9755,1342.70089 -350.9755,1342.70089 L 821.60569,1294.8744 Z" id="path708" />
+		<path style="
+                fill: url(#linearGradient1801);
+                stroke: none;
+                stroke-width: 1px;
+                stroke-linecap: butt;
+                stroke-linejoin: miter;
+                stroke-opacity: 1;
+                fill-opacity: 1;
+            " d="m -36.766685,819.78331 c 0,0 50.920242,-42.45158 78.801018,-94.6662 27.880781,-52.21462 69.900507,-203.18433 100.413287,-313.21583 16.12284,-58.14025 28.936,-122.76001 108.479,-156.91345 C 333.19164,219.66562 412.76278,251.4253 478.6124,227.11581 525.40418,209.84184 599.36103,147.56469 618.727,-9.5300935 629.14818,-94.065638 -161.22208,-149.67199 -161.22208,-149.67199 l 91.105369,1038.79382 z" id="path712" sodipodi:nodetypes="csssssccc" />
+	</g>
+</svg>
